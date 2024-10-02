@@ -42,4 +42,4 @@
 [Таблица recipients](https://github.com/daniil-vpt/new-up3/blob/main/Demonstration/изображение_2024-10-02_142655427.png)  
 [Таблица emails](https://github.com/daniil-vpt/new-up3/blob/main/Demonstration/изображение_2024-10-02_142827272.png)  
 [Таблица attachments](https://github.com/daniil-vpt/new-up3/blob/main/Demonstration/изображение_2024-10-02_142852677.png)  
-[результат выполнения функции](https://github.com/daniil-vpt/new-up3/blob/main/Demonstration/изображение_2024-10-02_142915490.png)  
+[Результат выполнения функции](https://github.com/daniil-vpt/new-up3/blob/main/Demonstration/изображение_2024-10-02_142915490.png)  
